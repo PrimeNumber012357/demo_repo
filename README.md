@@ -1,2 +1,2 @@
 # demo_repo
-python demo
+python demo for a friend
